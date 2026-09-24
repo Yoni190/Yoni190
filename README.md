@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I’m **Yonatan**, a full-stack developer who spends most of his time building and debugging real-world apps.
+I’m **Yonatan**, a backend developer who spends most of his time building and debugging real-world apps.
 
 I care less about flashy demos and more about things that actually run on real devices, ship properly, and don’t break in production.
 
@@ -8,10 +8,10 @@ I care less about flashy demos and more about things that actually run on real d
 
 ### 🚀 What I’m Focused On
 
-* React Native
-* PERN Stack
 * Laravel
-* Tailwind
+* React
+* MySQL
+* Express.js
 
 ---
 
