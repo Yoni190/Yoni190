@@ -22,4 +22,5 @@ I care less about flashy demos and more about things that actually run on real d
 * [Gojoye](https://github.com/Yoni190/apartment-renting) – A mobile app for apartment rentals that helps users browse, compare, and book properties with ease.
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Yoni190)](https://github.com/stats-organization/github-stats-extended)
+### GitHub Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yoni190&layout=donut-vertical&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Yoni190&layout=donut-vertical&langs_count=5&theme=dark_github)
