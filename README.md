@@ -1,6 +1,4 @@
-### Hey 👋
-
-I’m **Yonatan**, a backend developer who spends most of his time building and debugging real-world apps.
+Backend developer specializing in Laravel, with a growing focus on cloud, networking, and infrastructure.
 
 ---
 
