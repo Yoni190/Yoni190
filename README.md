@@ -25,9 +25,13 @@ I care less about flashy demos and more about things that actually run on real d
 ### GitHub Stats
 
 <div align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yoni190&layout=donut-vertical&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Yoni190&layout=donut-vertical&langs_count=5&theme=dark_github)
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yoni190&layout=donut-vertical&langs_count=5&theme=transparent&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=Yoni190&layout=donut-vertical&langs_count=5&theme=transparent&hide_border=true)
+
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Yoni190&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Yoni190&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 </div>
